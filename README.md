@@ -6,6 +6,7 @@
 
  🛠️ Technologies I work with:
 - Languages: Java, Python
+- Databases: MySQL
 
  🌱 I’m currently focused on:
 - Strengthening my understanding of DSA.
